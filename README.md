@@ -1,8 +1,13 @@
 # ARGoS
+
 git clone https://github.com/ilpincy/argos3.git argos3ARGoS README
+
 =============
+
 :Author: Carlo Pinciroli
+
 :Email:  ilpincy@gmail.com
+
 :Date:   November 26th, 2019
 
 ## What is ARGoS?
